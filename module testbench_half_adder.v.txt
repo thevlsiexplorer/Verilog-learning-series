@@ -1,0 +1,18 @@
+module testbench_half_adder;
+reg a;
+reg b;
+wire y;
+wire z;
+half_adder uut(.a(a),.b(b),.y(y),.z(z));
+initial begin 
+a=0; b=0;
+#30;
+a=0; b=1;
+#30;
+a=1; b=0;
+#30;
+a=1; b=1;
+#30;
+$finish;
+end
+endmodule

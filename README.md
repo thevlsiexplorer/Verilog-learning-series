@@ -3,6 +3,9 @@ This repository contains the Verilog  implementation of basic logic gates  AND, 
 # Basic Logic Gates
 
 This repository contains the Verilog HDL implementation and simulation of fundamental logic gates using Xilinx Vivado.
+This repository contains the Verilog HDL implementation and simulation of half adder using Xilinx Vivado.
+This repository contains the Verilog HDL implementation and simulation of full adder logic gates using Xilinx Vivado.
+
 
 ## Gates Implemented
 
@@ -12,8 +15,11 @@ This repository contains the Verilog HDL implementation and simulation of fundam
 * NAND Gate
 * NOR Gate
 * XOR Gate
+## half adder
+## full adder
+## full adder using two half adders 
 
-Each gate includes:
+ includes:
 
 * Verilog source code
 * Testbench for verification
@@ -27,6 +33,8 @@ Each gate includes:
 ## Learning Objectives
 
 * Understand basic digital logic design
+* understand design of half adder
+* understand design of full adder
 * Learn Verilog HDL syntax and module creation
 * Develop testbenches for functional verification
 * Analyze simulation waveforms in Vivado

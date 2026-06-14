@@ -18,6 +18,8 @@ This repository contains the Verilog HDL implementation and simulation of full a
 ## half adder
 ## full adder
 ## full adder using two half adders 
+## 4:1 multiplexer
+## 8:1 multiplexer
 
  includes:
 
@@ -35,6 +37,7 @@ This repository contains the Verilog HDL implementation and simulation of full a
 * Understand basic digital logic design
 * understand design of half adder
 * understand design of full adder
+* understand design of multiplexer
 * Learn Verilog HDL syntax and module creation
 * Develop testbenches for functional verification
 * Analyze simulation waveforms in Vivado

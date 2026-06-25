@@ -22,6 +22,7 @@ This repository contains the Verilog HDL implementation and simulation of full a
 ## 8:1 multiplexer
 ## decoder
 ## 1 bit comparator
+## Ripple carry adder
 
  includes:
 

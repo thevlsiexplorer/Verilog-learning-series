@@ -31,5 +31,5 @@ This project implements a 4-Bit Ripple Carry Adder using Structural Modeling in 
 
 Geethanjali T S
 
-VLSI with Geethanjali
+verilog_learning_series
 

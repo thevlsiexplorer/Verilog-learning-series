@@ -2,8 +2,12 @@
 
 ## Description
 
-This project implements a 4-Bit Ripple Carry Adder using Structural Modeling in Verilog HDL.
-
+1. This project implements a 4-Bit Ripple Carry Adder using Structural Modeling in Verilog HDL.
+2. A Ripple carry addder adds multi bit binary numbers 
+3. connects multiple full adders in series 
+4. output of the first full adder is used as the input to the second full adder 
+5. carry ripples from one stage to another .
+   
 ## Files
 
 * ripple_carry_adder.v

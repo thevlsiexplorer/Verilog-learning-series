@@ -8,7 +8,7 @@ Unlike a Ripple Carry Adder (RCA), where the carry propagates sequentially from 
 
 ---
 
-## ✨ Features
+##  Features
 
 * 4-bit Carry Look Ahead Adder
 * Written using **Dataflow Modeling**
@@ -83,7 +83,7 @@ README.md
 
 ---
 
-## 🧪 Test Cases
+##  Test Cases
 
 | A    | B    | Cin | Expected Result |
 | ---- | ---- | --- | --------------- |
